@@ -1,11 +1,11 @@
 {
   "yam": {
-    "key": "yam",
-    "symbol": "YAM",
-    "name": "Yam Finance",
-    "address": "0xAba8cAc6866B83Ae4eec97DD07ED254282f6aD8A",
-    "token": "0xAba8cAc6866B83Ae4eec97DD07ED254282f6aD8A",
-    "image": "0x0e2298E3B3390e3b945a5456fBf59eCc3f55DA16",
+    "key": "tict",
+    "symbol": "TICT",
+    "name": "Think in Coin Token",
+    "address": "0x7f19c8a4ce2c94ee54948d2f67de3a92eb230860",
+    "token": "0x7f19c8a4ce2c94ee54948d2f67de3a92eb230860",
+    "image": "0x1316F7D656ea26Aa8141cb045329168b15E72186",
     "coreDevs": [
       "0x683A78bA1f6b25E29fbBC9Cd1BFA29A51520De84"
     ],
