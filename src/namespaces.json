@@ -1,25 +1,27 @@
 {
-  "yam": {
-    "key": "tict",
-    "symbol": "TICT",
-    "name": "Think in Coin Token",
-    "address": "0x7f19c8a4ce2c94ee54948d2f67de3a92eb230860",
-    "token": "0x7f19c8a4ce2c94ee54948d2f67de3a92eb230860",
-    "image": "0x1316F7D656ea26Aa8141cb045329168b15E72186",
+  "SOY": {
+    "key": "soy",
+    "symbol": "SOY",
+    "name": "SoyBar Token",
+    "address": "0xfb4c85b31b888e4f84ac131667865e029d6486f7",
+    "token": "0xfb4c85b31b888e4f84ac131667865e029d6486f7",
+    "image": "0xfb4c85b31b888e4f84ac131667865e029d6486f7",
     "coreDevs": [
-      "0x683A78bA1f6b25E29fbBC9Cd1BFA29A51520De84"
+      "0x07Dee7d1828554a59C8B5E1466Cba8C0B87daF10"
     ],
-    "min": 100
+    "min": 100,
+    "max": 1000
   },
-  "balancer": {
-    "key": "balancer",
-    "symbol": "BAL",
-    "name": "Balancer",
-    "address": "0xba100000625a3754423978a60c9317c58a424e3D",
-    "token": "0xba100000625a3754423978a60c9317c58a424e3D",
-    "image": "0xba100000625a3754423978a60c9317c58a424e3D",
+  "maki": {
+    "key": "maki",
+    "symbol": "MAKI",
+    "name": "MakiSwap Token",
+    "address": "0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93",
+    "token": "0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93",
+    "image": "0x5fad6fbba4bba686ba9b8052cf0bd51699f38b93",
     "coreDevs": [
     ],
-    "min": 10
+    "min": 10,
+    "max": 100
   }
 }
