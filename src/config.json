@@ -1,9 +1,9 @@
 {
   "master": {
     "network": "homestead",
-    "chainId": 1,
+    "chainId": 128,
     "subgraphUrl": "https://api.thegraph.com/subgraphs/name/balancer-labs/balancer",
-    "hubUrl": "https://vote.balancer.finance",
+    "hubUrl": "https://makiswap-dev.thinkincoin.com",
     "multicall": "0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441",
     "connectors": {
       "injected": {
@@ -29,9 +29,9 @@
   },
   "develop": {
     "network": "homestead",
-    "chainId": 1,
+    "chainId": 128,
     "subgraphUrl": "https://api.thegraph.com/subgraphs/name/balancer-labs/balancer",
-    "hubUrl": "https://beta.vote.balancer.finance",
+    "hubUrl": "https://makiswap-dev.thinkincoin.com",
     "multicall": "0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441",
     "connectors": {
       "injected": {
@@ -57,9 +57,9 @@
   },
   "local": {
     "network": "homestead",
-    "chainId": 1,
+    "chainId": 128,
     "subgraphUrl": "https://api.thegraph.com/subgraphs/name/balancer-labs/balancer",
-    "hubUrl": "http://localhost:3000",
+    "hubUrl": "http://localhost:8080",
     "multicall": "0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441",
     "connectors": {
       "injected": {
