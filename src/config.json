@@ -2,9 +2,9 @@
   "master": {
     "network": "homestead",
     "chainId": 128,
-    "subgraphUrl": "https://api.thegraph.com/subgraphs/name/balancer-labs/balancer",
+    "subgraphUrl": "https://api.thegraph.com/subgraphs/",
     "hubUrl": "https://makiswap-dev.thinkincoin.com",
-    "multicall": "0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441",
+    "multicall": "0xb5ec65821e27de5ec9d52d5826057a99bd78c875",
     "connectors": {
       "injected": {
         "id": "injected",
@@ -30,9 +30,9 @@
   "develop": {
     "network": "heco",
     "chainId": 128,
-    "subgraphUrl": "https://api.thegraph.com/subgraphs/name/balancer-labs/balancer",
+    "subgraphUrl": "https://api.thegraph.com/subgraphs/",
     "hubUrl": "https://makiswap-dev.thinkincoin.com",
-    "multicall": "0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441",
+    "multicall": "0xb5ec65821e27de5ec9d52d5826057a99bd78c875",
     "disableHostCheck": true,
     "connectors": {
       "injected": {
