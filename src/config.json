@@ -1,7 +1,7 @@
 {
   "master": {
     "network": "homestead",
-    "chainId": 137,
+    "chainId": 4,
     "subgraphUrl": "https://api.thegraph.com/subgraphs/",
     "hubUrl": "https://makiswap-dev.thinkincoin.com",
     "multicall": "0xb5ec65821e27de5ec9d52d5826057a99bd78c875",
@@ -29,7 +29,7 @@
   },
   "develop": {
     "network": "heco",
-    "chainId": 137,
+    "chainId": 4,
     "subgraphUrl": "https://api.thegraph.com/subgraphs/",
     "hubUrl": "https://makiswap-dev.thinkincoin.com",
     "multicall": "0xb5ec65821e27de5ec9d52d5826057a99bd78c875",
@@ -58,7 +58,7 @@
   },
   "local": {
     "network": "homestead",
-    "chainId": 137,
+    "chainId": 4,
     "subgraphUrl": "https://api.thegraph.com/subgraphs/",
     "hubUrl": "http://localhost:8080",
     "multicall": "0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441",
