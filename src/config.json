@@ -28,7 +28,7 @@
     }
   },
   "develop": {
-    "network": "homestead",
+    "network": "heco",
     "chainId": 128,
     "subgraphUrl": "https://api.thegraph.com/subgraphs/name/balancer-labs/balancer",
     "hubUrl": "https://makiswap-dev.thinkincoin.com",
