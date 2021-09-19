@@ -60,7 +60,7 @@
     "network": "homestead",
     "chainId": 4,
     "subgraphUrl": "https://api.thegraph.com/subgraphs/",
-    "hubUrl": "http://localhost:8080",
+    "hubUrl": "http://localhost:3001",
     "multicall": "0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441",
     "disableHostCheck": true,
     "connectors": {
