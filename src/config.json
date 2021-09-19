@@ -33,6 +33,7 @@
     "subgraphUrl": "https://api.thegraph.com/subgraphs/name/balancer-labs/balancer",
     "hubUrl": "https://makiswap-dev.thinkincoin.com",
     "multicall": "0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441",
+    "disableHostCheck": true,
     "connectors": {
       "injected": {
         "id": "injected",
@@ -61,6 +62,7 @@
     "subgraphUrl": "https://api.thegraph.com/subgraphs/name/balancer-labs/balancer",
     "hubUrl": "http://localhost:8080",
     "multicall": "0xeefBa1e63905eF1D7ACbA5a8513c70307C1cE441",
+    "disableHostCheck": true,
     "connectors": {
       "injected": {
         "id": "injected",
